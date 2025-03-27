@@ -1,5 +1,5 @@
-import image1 from "/public/1.png"
-import image2 from "/public/2.png"
+import image1 from "/public/game-store.jpg"
+
 import { motion } from "framer-motion"
 
 
@@ -7,15 +7,9 @@ import { motion } from "framer-motion"
 const projectsData = [
   {
     image: image1,
-    title: "Central Park",
-    description: "lorem ipsum 15k",
-    technologies: ["React", "Tailwind", "Javascript", "Framer Motion"],
-  },
-  {
-    image: image2,
-    title: "Grand Indonesia",
-    description: "lorem ipsum 15k",
-    technologies: ["React", "Tailwind", "Javascript", "Framer Motion"],
+    title: "Game Store",
+    description: "Beragam Koleksi Game – Temukan game terbaru dan klasik dari berbagai kategori.",
+    technologies: ["React","Javascript", "Bootstrap", "Swiper"],
   },
 ]
 
