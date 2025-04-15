@@ -32,6 +32,10 @@ const Hero = () => {
               target="_blank" rel="noopener noreferrer"
               className="bg-gradient-to-r from-pink-400 to-blue-600 rounded-full p-4 text-sm text-stone-800 mb-10">Download Certified
             </a>
+            <a href="https://drive.google.com/drive/folders/1cVRgFSJ8716dQlpesp5nKBlIEtCwWfds?usp=drive_link"
+              target="_blank" rel="noopener noreferrer"
+              className="bg-gradient-to-r from-pink-400 to-blue-600 rounded-full p-4 text-sm text-stone-800 mb-10">Download Content
+            </a>
           </div>
         </motion.div>
 
