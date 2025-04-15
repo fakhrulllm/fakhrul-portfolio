@@ -24,7 +24,7 @@ const Hero = () => {
           <h3 className="bg-gradient-to-r from-pink-500 to-blue-500 bg-clip-text text-transparent opacity-80 text-2xl font-light md:text-3xl">Web Developer</h3>
           <p className="md:text-base text-pretty text-sm text-gray-400">Fresh Graduate Web Developer with Fullstack IT bootcamp background. Proficient in React.js, Tailwind CSS, Node.js, Express.js, PostgreSQL,and Sequelize for end-to-end web application development. Adaptive, fast learner, and always ready to face new challenges.</p>
           <div className="mt-6 flex space-x-4">
-            <a href="https://drive.google.com/file/d/16QiAiWklU_B2uNW7fmqDDQ2_WP4AfKPm/view"
+            <a href="https://drive.google.com/file/d/1SdET9Mrhmj4ZJ4QQ2ThzYdCr4KrKChWR/view?usp=sharing"
               target="_blank" rel="noopener noreferrer"
               className="bg-gradient-to-r from-blue-600 to-pink-400 rounded-full p-4 text-sm text-stone-800 mb-10">Download Resume
             </a>
